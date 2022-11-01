@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\bin\Debug\Task1Array.exe.config
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\bin\Debug\Task1Array.exe
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\bin\Debug\Task1Array.pdb
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\obj\Debug\Task1Array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\obj\Debug\Task1Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\obj\Debug\Task1Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\obj\Debug\Task1Array.exe
+C:\Users\ASUS\Desktop\Task1Array\Task1Array\obj\Debug\Task1Array.pdb
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\bin\Debug\Task1Array.exe.config
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\bin\Debug\Task1Array.exe
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\bin\Debug\Task1Array.pdb
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\obj\Debug\Task1Array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\obj\Debug\Task1Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\obj\Debug\Task1Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\obj\Debug\Task1Array.exe
+C:\Users\ASUS\Desktop\TodaysTask\C#Array1\Task1Array\obj\Debug\Task1Array.pdb
